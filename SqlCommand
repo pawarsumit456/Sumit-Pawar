@@ -1,0 +1,16 @@
+
+create database sumit;
+
+use sumit;
+
+create table sumit
+(
+id int,
+name varchar(20),
+age int
+);
+
+insert into sumit(id,name,age) values(1,'sumit',23);
+insert into sumit(id,name,age) avlues(2,'Jacky',21);
+
+select * from sumit;
