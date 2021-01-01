@@ -11,6 +11,6 @@ age int
 );
 
 insert into sumit(id,name,age) values(1,'sumit',23);
-insert into sumit(id,name,age) avlues(2,'Jacky',21);
+insert into sumit(id,name,age) values(2,'Jacky',21);
 
 select * from sumit;
